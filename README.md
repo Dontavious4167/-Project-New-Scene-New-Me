@@ -18,18 +18,19 @@ Incorporate variety of media – Use at least four different types of Scene API 
 - **Document your code** – Use multi-line comments to explain the purpose of each method (including preconditions and postconditions) and single-line comments to explain code segments.
 
 ## UML Diagram 
-
+ 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![UML Diagram for my project](Uml.png) 
 
 ## Description of 2025 recap
 
 Write a description of what you included in your 2025 recap scene (LastYear)
-
+I included  three things I did over 2025. I won a basketball championship and I went to a dodger game. I also hanged out with my friends.
 ## Description of 2026 goals
 
 Write a description of what you included in your 2026 goals scene (ThisYear)
 ## Scene API Usage
-
+I incuded another city because I want to travel more in 2026. 
 Describe how you were able to use the various methods from the Scene API to create your animation. 
+I was able to use various methods to create my animation by learning how they work and I can input them. 

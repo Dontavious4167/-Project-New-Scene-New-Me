@@ -25,11 +25,11 @@ Put an image of your UML Diagram here. Upload the image of your UML Diagram to y
 
 ## Description of 2025 recap
 
-Write a description of what you included in your 2025 recap scene (LastYear)
+
 I included  three things I did over 2025. I won a basketball championship and I went to a dodger game. I also hanged out with my friends.
 ## Description of 2026 goals
 I want to travel more and I want to keep up with my grades.
-Write a description of what you included in your 2026 goals scene (ThisYear)
+
 ## Scene API Usage
 I incuded another city because I want to travel more in 2026. 
 Describe how you were able to use the various methods from the Scene API to create your animation. 
